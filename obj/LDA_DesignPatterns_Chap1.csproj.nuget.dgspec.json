@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\LDA_May\\LDA_DesignPatterns_Chap1\\LDA_DesignPatterns_Chap1.csproj": {}
+    "D:\\LDA_May\\LDA_DesignPatterns_Chap1\\LDA_DesignPatterns\\LDA_DesignPatterns_Chap1.csproj": {}
   },
   "projects": {
-    "D:\\LDA_May\\LDA_DesignPatterns_Chap1\\LDA_DesignPatterns_Chap1.csproj": {
+    "D:\\LDA_May\\LDA_DesignPatterns_Chap1\\LDA_DesignPatterns\\LDA_DesignPatterns_Chap1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\LDA_May\\LDA_DesignPatterns_Chap1\\LDA_DesignPatterns_Chap1.csproj",
+        "projectUniqueName": "D:\\LDA_May\\LDA_DesignPatterns_Chap1\\LDA_DesignPatterns\\LDA_DesignPatterns_Chap1.csproj",
         "projectName": "LDA_DesignPatterns_Chap1",
-        "projectPath": "D:\\LDA_May\\LDA_DesignPatterns_Chap1\\LDA_DesignPatterns_Chap1.csproj",
+        "projectPath": "D:\\LDA_May\\LDA_DesignPatterns_Chap1\\LDA_DesignPatterns\\LDA_DesignPatterns_Chap1.csproj",
         "packagesPath": "C:\\Users\\mohanr\\.nuget\\packages\\",
-        "outputPath": "D:\\LDA_May\\LDA_DesignPatterns_Chap1\\obj\\",
+        "outputPath": "D:\\LDA_May\\LDA_DesignPatterns_Chap1\\LDA_DesignPatterns\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

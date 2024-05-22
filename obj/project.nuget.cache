@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I+47EZ+Zgv7RplpY3u1+DaTxtRRPcfIQ4WcAvHhNo3xXs9fz+i0bqYsrGVBYuDi8XN4+ZE5AsFqkS3com5ifnw==",
+  "dgSpecHash": "O7zkHn8H3mEMavvk2Wv8K//YOnSiWOrRt+x33XtTLMFDlDXTpWpsNKlmIqwQ8evRrA62f+zw9WUgs7txkGponA==",
   "success": true,
-  "projectFilePath": "D:\\LDA_May\\LDA_DesignPatterns_Chap1\\LDA_DesignPatterns_Chap1.csproj",
+  "projectFilePath": "D:\\LDA_May\\LDA_DesignPatterns_Chap1\\LDA_DesignPatterns\\LDA_DesignPatterns_Chap1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mohanr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
     "C:\\Users\\mohanr\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
